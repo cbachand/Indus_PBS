@@ -1,0 +1,1 @@
+The Sentinel-1 data can be accessed here: https://ees.kuleuven.be/apps/project-c-snow-data/. Per the user policy, this data cannot be used for commercial purposes. 
