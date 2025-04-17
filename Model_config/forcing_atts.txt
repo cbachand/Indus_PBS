@@ -4,7 +4,7 @@
 Incident Shortwave Radiation Level 001
 0.       1600.
 Incident Longwave Radiation Level 001
-0.     1000.
+-500.     1000.
 Rainfall Rate Level 001
 0.0      0.01
 Near Surface Air Temperature Level 001
